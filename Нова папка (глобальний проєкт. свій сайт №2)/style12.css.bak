@@ -1,0 +1,31 @@
+body{
+	font-family: Сomic Sans MS;
+	background-color: white;
+	color: black;
+}
+button{
+	height: 60px;
+	width: 200px;
+    color: black;
+    background-color: green; 
+    margin-left: 45%;
+ 	font-size: 40px;
+}
+button:hover{
+	color: white;
+}
+h1{
+	font-family: Monotype Corsiva;
+	font-size: 90px;
+	color: green;
+}
+p{
+	font-size: 50px;
+	font-family: Monotype Corsiva;
+}
+img{
+	margin-left: 20%;
+    margin-right: -10%;
+	height: 70%;
+	width: 60%;
+}

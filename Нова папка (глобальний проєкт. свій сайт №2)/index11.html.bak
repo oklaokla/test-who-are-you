@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>тестик "який ти мій улюблений челік з аніме<3"</title>
+<link rel="stylesheet" type="text/css" href="style3.css">
+</head>
+<body>
+<form action="index12.html">
+<br><legend align="center"><b>~ну от і настав час прощатись. сподіваюся, вам сподобався тестик, ну а я йду доробляти курсову. удачі, бро~<b></legend><br>
+<div>
+<input type="radio" name="test1" value="v1">бро, дякую тобі за тестик!<3<br>
+<input type="radio" name="test1" value="v2">папа:_<<br>
+<input type="radio" name="test1" value="v3">ок<br>
+<input type="radio" name="test1" value="v4">та давай вже результати<br>
+<input type="radio" name="test1" value="v5">це було весело:><br><br><br>
+</div>
+<button type="submit">Next</button>
+</form>
+</body>
+</html>

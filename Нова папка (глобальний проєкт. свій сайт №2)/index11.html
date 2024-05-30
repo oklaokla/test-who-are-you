@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>тестик "який ти мій улюблений челік з аніме<3"</title>
+    <link rel="stylesheet" type="text/css" href="style3.css">
+    <script>
+        function randomPage() {
+            const pages = [
+                'index12.html',
+                'index13.html',
+                'index14.html',
+                'index15.html',
+                'index16.html',
+            ];
+            const randomIndex = Math.floor(Math.random() * pages.length);
+            window.location.href = pages[randomIndex];
+        }
+    </script>
+</head>
+<body>
+    <form onsubmit="randomPage(); return false;">
+        <br>
+        <legend align="center">~ну от і настав час прощатись. сподіваюся, вам сподобався тестик, ну а я йду доробляти курсову. удачі, бро~</legend>
+        <br>
+        <div>
+            <input type="radio" name="test1" value="v1">бро, дякую тобі за тестик!<3<br>
+            <input type="radio" name="test1" value="v2">папа:_<<br>
+            <input type="radio" name="test1" value="v3">ок<br>
+            <input type="radio" name="test1" value="v4">та давай вже результати<br>
+            <input type="radio" name="test1" value="v5">це було весело:><br><br><br>
+        </div>
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

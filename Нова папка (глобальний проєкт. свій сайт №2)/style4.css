@@ -1,0 +1,26 @@
+body{
+	font-family: Сomic Sans MS;
+	background-color: red;
+	color: white;
+}
+button{
+	width: 80px;
+    color: white;
+    background-color: black; 
+    margin-left: 45%;
+    margin-right: 60%; 	
+}
+button:hover{
+	color: red;
+}
+h1{
+	font-family: Monotype Corsiva;
+}
+legend{
+	font-family: Monotype Corsiva;
+	font-size: 30px;
+}
+div{
+	margin-left: 33%;
+    margin-right: 20%; 
+}
